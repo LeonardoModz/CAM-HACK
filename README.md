@@ -2,7 +2,7 @@
 
 #CRIADO POR @LEO MODZ OFICIAL
 
-<h3> Run Command: </h3>
+ AQUI ESTA O CMD INSTALAÇÃO 
 
  apt-get install python3
 
